@@ -8,7 +8,7 @@ Este guia explica como configurar seu ambiente de desenvolvimento no **Windows**
 
 ### Windows/Linux/macOS
 
-1. Acesse o site oficial da Oracle ou utilize uma distribuição open source como **Adoptium** (Eclipse Temurin).
+1. Acesse o site oficial da **Eclipse Foundation** (Eclipse IDE).
    - [Download do Eclipse 2025-03 IDE (Java)](https://www.eclipse.org/downloads/packages/)
 
 2. Baixe e instale a versão do JDK compatível (Java 17 é uma ótima opção).
@@ -30,7 +30,7 @@ java version "17.0.8" 2023-07-18 LTS
 ## 🔧 2. Instalar o Eclipse IDE
 
 1. Acesse o site oficial:
-   - [Download do Eclipse IDE](https://www.eclipse.org/downloads/)
+   - [Download do Eclipse IDE](https://www.eclipse.org/downloads/packages/)
 
 2. Baixe o instalador apropriado para o seu sistema operacional.
 
