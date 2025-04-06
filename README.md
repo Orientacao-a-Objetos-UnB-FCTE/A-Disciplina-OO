@@ -20,7 +20,7 @@ A disciplina de **Orientação a Objetos** introduz conceitos de modelagem e imp
 
 A estrutura do repositório será organizada da seguinte forma:
 ```
-APC-2025.1-UnB/
+OO-T06_2025.1_UnB_FCTE/
 │-- plano-de-ensino/
 │   ├── Plano_de_Ensino_APC_2025_01_T12.pdf
 │-- preparando-o-ambiente/
