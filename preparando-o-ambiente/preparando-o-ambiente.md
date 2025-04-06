@@ -9,7 +9,7 @@ Este guia explica como configurar seu ambiente de desenvolvimento no **Windows**
 ### Windows/Linux/macOS
 
 1. Acesse o site oficial da Oracle ou utilize uma distribuição open source como **Adoptium** (Eclipse Temurin).
-   - [Download do Eclipse Temurin (Java)](https://adoptium.net/)
+   - [Download do Eclipse 2025-03 IDE (Java)](https://www.eclipse.org/downloads/packages/)
 
 2. Baixe e instale a versão do JDK compatível (Java 17 é uma ótima opção).
 
