@@ -9,7 +9,7 @@ Aqui, os alunos encontrarão:
 - 📑 [**Plano de Ensino** da disciplina](./plano-de-ensino/Plano%20de%20Ensino%20OO%20-%20Turma%2006.pdf)
 - 📂 [**Slides das Aulas Teóricas**](./slides/)
 - 💻 [**Códigos de Exemplos** abordados em sala](./codigos/)
-- 🛠️ [**Preparando o ambiente** para desenvolvimento na Liinguagem C](./preparando-o-ambiente/preparando-o-ambiente.md)
+- 🛠️ [**Preparando o ambiente** para desenvolvimento](./preparando-o-ambiente/preparando-o-ambiente.md)
 - 📝 [**Listas de Exercícios e Trabalhos**](./listas/lista_p1.md)
 
 ## 📜 Sobre a Disciplina
