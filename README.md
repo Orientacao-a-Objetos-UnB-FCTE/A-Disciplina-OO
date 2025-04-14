@@ -10,7 +10,7 @@ Aqui, os alunos encontrarão:
 - 📂 [**Slides das Aulas Teóricas**](./slides/)
 - 💻 [**Códigos de Exemplos** abordados em sala](./codigos/)
 - 🛠️ [**Preparando o ambiente** para desenvolvimento na Liinguagem C](./preparando-o-ambiente/preparando-o-ambiente.md)
-- 📝 **Listas de Exercícios e Trabalhos** (se aplicável)
+- 📝 [**Listas de Exercícios e Trabalhos**](./listas/lista_p1.md)
 
 ## 📜 Sobre a Disciplina
 
