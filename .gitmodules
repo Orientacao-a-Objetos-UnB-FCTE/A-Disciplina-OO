@@ -1,0 +1,3 @@
+[submodule "codigos/java/exemplo_carro"]
+	path = codigos/java/exemplo_carro
+	url = git@github.com:lboaventura25/exemplo_carro_oo.git
