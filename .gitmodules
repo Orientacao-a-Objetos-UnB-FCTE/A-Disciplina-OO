@@ -1,3 +1,6 @@
 [submodule "codigos/java/exemplo_carro"]
 	path = codigos/java/exemplo_carro
 	url = git@github.com:lboaventura25/exemplo_carro_oo.git
+[submodule "trabalhos/ep1/sistema-academico-repo"]
+	path = trabalhos/ep1/sistema-academico-repo
+	url = git@github.com:lboaventura25/ep1-OO-2025_1.git
