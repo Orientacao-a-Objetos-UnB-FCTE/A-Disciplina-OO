@@ -2,7 +2,7 @@
 
 Este repositório contém materiais da disciplina **Orientação a Objetos (OO)** do curso de Engenharia de Software da **Universidade de Brasília (UnB)**, ministrada pelo professor **Lucas Boaventura** no semestre **2025.1**.
 
-## 📌 Conteúdo
+## 📌 Conteúdo da disciplina
 
 Aqui, os alunos encontrarão:
 
