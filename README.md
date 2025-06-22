@@ -8,6 +8,9 @@ Aqui, os alunos encontrarão:
 
 - 📑 [**Plano de Ensino** da disciplina](./plano-de-ensino/Plano%20de%20Ensino%20OO%20-%20Turma%2006.pdf)
 - 💯 [**Notas Provas/Trabalhos** da disciplina](./notas/)
+    - [**P1 + EP1**](./notas/NOTAS%20OO%202025.1%20-%20T06%20-%20Nota%201.pdf)
+    - [**P2**](./notas/NOTAS%20OO%202025.1%20-%20T06%20-%20Nota%202.pdf)
+    - [**P3 + EPF**](./notas/)
 - 📂 [**Slides das Aulas Teóricas**](./slides/)
 - 💻 [**Códigos de Exemplos** abordados em sala](./codigos/)
 - 🛠️ [**Preparando o ambiente** para desenvolvimento](./preparando-o-ambiente/preparando-o-ambiente.md)
