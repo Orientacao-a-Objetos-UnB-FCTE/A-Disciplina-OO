@@ -59,3 +59,19 @@ Utilize o repositório abaixo para criar o seu repositório, através do botão 
    - Data da apresentação presencial: **7 de Julho a partir das 11:30h (Ordem de chegada)**
       - Tempo de apresentação: 10 minutos (grupo) + 5 minutos de arguição (professor e monitores)
       - Apresentação com código rodando no computador de uma das pessoas da dupla, mostrar as funcionalidades, bibliotecas utilizadas e explicar as partes interessantes do código no VSCode
+
+
+## Critérios de avaliação
+
+| **Critério**                                      | **Descrição**                                                                 | **Peso (%)** | **Pontuação Máxima**  |
+| ------------------------------------------------- | ----------------------------------------------------------------------------- | ------------ | --------------------  |
+| 1. Aplicação Web com Bottle + Estrutura MVC       | Uso correto do framework Bottle e separação clara em Model, View e Controller | 15%          | 1,5 pontos            |
+| 2. Persistência de Dados                          | Uso de JSON, SQLite ou outro mecanismo funcional de persistência              | 5%           | 0,5 pontos            |
+| 3. Modelagem de Dados com OO                      | Uso de no mínimo 3 classes (2 models + Usuário)                               | 10%          | 1,0 pontos            |
+| 4. Uso dos 4 Pilares da OO                        | Abstração, Encapsulamento, Herança, Polimorfismo                              | 15%          | 1,5 pontos            |
+| 5. Autenticação de Usuários                       | Cadastro, login, e proteção de rotas                                          | 10%          | 1,0 pontos            |
+| 6. Interface Web Customizada                      | Estética além do básico (CSS/Bootstrap/Materialize)                           | 10%          | 1,0 pontos            |
+| 7. Documentação no README.md                      | Funcionalidades, diagrama de classes e instruções                             | 10%          | 1,0 pontos            |
+| 8. Repositório GitHub (organização do repositório) | Código, requirements.txt, arquivos estáticos e estrutura do projeto           | 5%           | 0,5 pontos           |
+| 9. Apresentação Presencial                        | Demonstração do sistema rodando e explicação técnica clara                    | 20%          | 2,0 pontos            |
+| 10. Pontuação Extra                        | Pode ser atribuído a livre critério do professor baseado na qualidade do projeto, relevância do tema e criatividade.                    | 10%          | 1,0 pontos            |
