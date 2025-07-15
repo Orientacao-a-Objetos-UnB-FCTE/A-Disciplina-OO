@@ -10,6 +10,7 @@ Aqui, os alunos encontrarão:
 - 💯 [**Notas Provas/Trabalhos** da disciplina](./notas/)
     - [**P1 + EP1**](./notas/NOTAS%20OO%202025.1%20-%20T06%20-%20Nota%201.pdf)
     - [**P2**](./notas/NOTAS%20OO%202025.1%20-%20T06%20-%20Nota%202.pdf)
+    - [**PSUB**](./notas/NOTAS%20OO%202025.1%20-%20T06%20-%20Nota%20Substitutiva.pdf)
     - [**Notas Gerais**](./notas/NOTAS%20OO%202025.1%20-%20T06%20-%20Notas%20Gerais.pdf)
 - 📂 [**Slides das Aulas Teóricas**](./slides/)
 - 💻 [**Códigos de Exemplos** abordados em sala](./codigos/)
