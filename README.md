@@ -1,6 +1,6 @@
-# OO T06 - 2025.1 - UnB
+# OO - UnB - Prof. Lucas Boaventura
 
-Este repositório contém materiais da disciplina **Orientação a Objetos (OO)** do curso de Engenharia de Software da **Universidade de Brasília (UnB)**, ministrada pelo professor **Lucas Boaventura** no semestre **2025.1**.
+Este repositório contém materiais da disciplina **Orientação a Objetos (OO)** do curso de Engenharia de Software da **Universidade de Brasília (UnB)**, ministrada pelo professor **Lucas Boaventura**.
 
 ## 📌 Conteúdo da disciplina
 
@@ -8,10 +8,7 @@ Aqui, os alunos encontrarão:
 
 - 📑 [**Plano de Ensino** da disciplina](./plano-de-ensino/Plano%20de%20Ensino%20OO%20-%20Turma%2006.pdf)
 - 💯 [**Notas Provas/Trabalhos** da disciplina](./notas/)
-    - [**P1 + EP1**](./notas/NOTAS%20OO%202025.1%20-%20T06%20-%20Nota%201.pdf)
-    - [**P2**](./notas/NOTAS%20OO%202025.1%20-%20T06%20-%20Nota%202.pdf)
-    - [**PSUB**](./notas/NOTAS%20OO%202025.1%20-%20T06%20-%20Nota%20Substitutiva.pdf)
-    - [**Notas Finais**](./notas/NOTAS%20OO%202025.1%20-%20T06%20-%20Notas%20Finais.pdf)
+    - [**Nota 1**](./)
 - 📂 [**Slides das Aulas Teóricas**](./slides/)
 - 💻 [**Códigos de Exemplos** abordados em sala](./codigos/)
 - 🛠️ [**Preparando o ambiente** para desenvolvimento](./preparando-o-ambiente/preparando-o-ambiente.md)
@@ -42,4 +39,4 @@ OO-T06_2025.1_UnB_FCTE/
 Este repositório é destinado apenas ao compartilhamento de materiais da disciplina. Se encontrar erros ou tiver sugestões, sinta-se à vontade para abrir uma **issue** ou entrar em contato.
 
 ---
-📧 Dúvidas? Entre em contato com o professor **Lucas Boaventura** pelo email lucasxboaventura18@gmail.com com o seguinte assunto "Dúvidas OO 2025.1".
+📧 Dúvidas? Entre em contato com o professor **Lucas Boaventura** pelo email lucasxboaventura18@gmail.com com o seguinte assunto "Dúvidas OO <Ano.Semestre>".
