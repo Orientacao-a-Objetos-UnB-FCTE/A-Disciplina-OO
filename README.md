@@ -6,7 +6,7 @@ Este repositório contém materiais da disciplina **Orientação a Objetos (OO)*
 
 Aqui, os alunos encontrarão:
 
-- 📑 [**Plano de Ensino** da disciplina](./plano-de-ensino/Plano%20de%20Ensino%20OO%20-%20Turma%2006.pdf)
+- 📑 [**Plano de Ensino** da disciplina](./plano-de-ensino/2025.2/Plano%20de%20Ensino%20OO%20.pdf)
 - 💯 [**Notas Provas/Trabalhos** da disciplina](./notas/)
     - [**Nota 1**](./)
 - 📂 [**Slides das Aulas Teóricas**](./slides/)

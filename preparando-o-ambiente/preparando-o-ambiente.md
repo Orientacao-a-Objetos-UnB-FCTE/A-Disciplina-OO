@@ -42,16 +42,59 @@ java version "17.0.8" 2023-07-18 LTS
 
 ---
 
-## 🔧 3. Configuração Inicial do Eclipse
 
-1. Abra o Eclipse.
-2. Selecione o **workspace** (pasta onde seus projetos ficarão salvos).
-3. Configure o **Java Runtime Environment (JRE)** para garantir que o Eclipse use o Java correto:
+## 🔧 Instalar o Visual Studio Code (VS Code)
 
-   - Menu: `Window` > `Preferences` > `Java` > `Installed JREs`
-   - Clique em **Add...** e adicione o diretório do seu JDK instalado.
+### ✅ Windows
 
-4. Pronto! Agora você pode criar seus projetos em Java.
+1. Acesse o site oficial:
+   - [Download do Visual Studio Code](https://code.visualstudio.com/Download)
+
+2. Baixe o instalador **User Installer (x64)** para Windows.
+
+3. Execute o instalador e, durante a instalação, marque as opções recomendadas:
+   - **Add “Open with Code” action to Windows Explorer file context menu**
+   - **Add “Open with Code” action to Windows Explorer directory context menu**
+   - **Add to PATH**
+
+4. Conclua a instalação e abra o VS Code pelo menu iniciar.
+
+---
+
+### ✅ Linux (Ubuntu/Debian)
+
+1. Abra o terminal e execute os seguintes comandos:
+
+   **Instalação via Snap (mais simples):**
+   ```bash
+   sudo snap install code --classic
+   ```
+
+   **OU Instalação via pacote .deb:**
+   1. Baixe o arquivo `.deb` do site oficial:  
+      [Download do VS Code (.deb)](https://code.visualstudio.com/Download)
+   2. Instale com:
+      ```bash
+      sudo dpkg -i ~/Downloads/code_*.deb || sudo apt -f install
+      ```
+
+2. Verifique a instalação:
+   ```bash
+   code --version
+   ```
+
+3. Para abrir o VS Code, digite no terminal:
+   ```bash
+   code
+   ```
+
+---
+
+> 🔄 **Importante:** No Windows, o VS Code atualiza automaticamente. No Ubuntu, mantenha-o atualizado com:
+> ```bash
+> sudo snap refresh code
+> ```
+> ou use seu gerenciador de pacotes.
 
 ---
 
