@@ -18,27 +18,29 @@
 
 6. **Associação entre classes**  
    Explique o que é uma associação entre duas classes e cite um exemplo prático.
+   R: É quando duas classes se relacionam por possuirem objetos de classes diferentes.
+   ex: Temos duas classes a classe Dono() e a classe Cachorro() , quando criamos os objetos o cachorro precisa saber quem é o dono.
 
-7. **Criação de classe simples**  
+8. **Criação de classe simples**  
    Implemente uma classe `Apartamento` em Java, que tenha os atributos `area`, `quartos`, `andar`, `valorDeCompra`, `vagasDeGaragem` e `temVaranda`, e um método `exibirInfo()` que imprime esses dados no terminal.
 
-8. **Herança**  
+9. **Herança**  
    Explique o conceito de herança em OO e implemente duas classes em Java que a utilizem herança.
 
-9. **Polimorfismo - Sobrecarga**  
+10. **Polimorfismo - Sobrecarga**  
    O que é polimorfismo em Orientação a Objetos? Dê um exemplo prático usando sobrecarga em Java.
 
-10. **Polimorfismo - Sobrescrita**  
+11. **Polimorfismo - Sobrescrita**  
    O que é sobreescrita em Orientação a Objetos? Dê um exemplo prático em Java.
 
-11. **Encapsulamento**  
+12. **Encapsulamento**  
    O que é encapsulamento? Reescreva a classe `Apartamento` da questão 5 usando atributos privados e fornecendo métodos getters e setters.
 
-12. **Relacionamento de agregação**  
+13. **Relacionamento de agregação**  
    Explique o que é agregação e crie duas classes em Java que representem esse relacionamento.
 
-13. **Projeto orientado a objetos**  
+14. **Projeto orientado a objetos**  
     Desenhe um pequeno diagrama de classes para representar um sistema de gerenciamento de biblioteca, contendo pelo menos três classes (`Livro`, `Usuario`, `Emprestimo`) e depois implemente essas classes em Java.
 
-14. **Projeto orientado a objetos 2**  
+15. **Projeto orientado a objetos 2**  
     Implemente uma Main em Java que instancie pelo menos um objeto de cada uma das classes (`Livro`, `Usuario`, `Emprestimo`) e em seguida realiza um emprestimo e uma devolução.
