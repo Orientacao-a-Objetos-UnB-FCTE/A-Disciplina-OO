@@ -56,7 +56,7 @@ Utilize o repositório abaixo para criar o seu repositório, através do botão 
    - Arquivo requirements.txt com as dependências
 
 3. **Apresentações do trabalho presencial com todos os membros ds grupos**
-   - Data da apresentação presencial: **7 de Julho a partir das 11:30h (Ordem de chegada)**
+   - Data da apresentação presencial: **Xx de Novembro/Dezembro a partir das 11:30h (Ordem de chegada)**
       - Tempo de apresentação: 10 minutos (grupo) + 5 minutos de arguição (professor e monitores)
       - Apresentação com código rodando no computador de uma das pessoas da dupla, mostrar as funcionalidades, bibliotecas utilizadas e explicar as partes interessantes do código no VSCode
 
