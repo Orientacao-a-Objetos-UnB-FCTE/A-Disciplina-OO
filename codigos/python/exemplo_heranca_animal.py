@@ -7,7 +7,7 @@ class Animal:
 
 
 class Cachorro(Animal):
-    def __init__(self, nome, raca, idade=None):
+    def __init__(self, nome, raca="", idade=None):
         super().__init__(nome)
         self.raca = raca
         self.idade = idade
@@ -16,11 +16,11 @@ class Cachorro(Animal):
         return self.raca
 
     def latir(self):
-        return f'Nome do cachorro {self.nome} esta latindo!'
+        return f'O cachorro {self.nome} está latindo!'
 
 
-# meu_cachorro = Cachorro(nome="Tótó", idade=15, raca="Vira-lata")
-meu_cachorro = Cachorro("Tótó", "Vira-lata", 15)
+meu_cachorro = Cachorro(raca="Golden", idade=90, nome="Mike")
+# meu_cachorro = Cachorro("Tótó", "Vira-lata", 15)
 print(meu_cachorro.latir())
 print(f'Raça: {meu_cachorro.get_raca()}')
 print(f'Idade: {meu_cachorro.idade}')
