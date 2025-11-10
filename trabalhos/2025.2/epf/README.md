@@ -1,10 +1,10 @@
-# EP3 - Projeto Final de Orientação a Objetos - 2025.1
+# EPF - Projeto Final de Orientação a Objetos - 2025.2
 
 Projeto final da disciplina Orientação a Objetos utilizando Python + Bottle
 
 Utilize o repositório abaixo para criar o seu repositório, através do botão 'Use this template' -> 'Create a new repository':
 
-- [Template Python + Bottle](https://github.com/lboaventura25/poo-python-bottle-template)
+- [Template Python + Bottle](https://github.com/Orientacao-a-Objetos-UnB-FCTE/epf-python-bottle-template)
 
 ## Requisitos Mínimos
 
